@@ -6,7 +6,7 @@ This repository provides code and documentation for a comprehensive data analysi
 
 ### Dataset: Bank Marketing Data Set
 
-	•	Description: Approximately 45,000 records with information about a Portuguese bank’s direct marketing campaigns (phone calls).
+	•Description: Approximately 45,000 records with information about a Portuguese bank’s direct marketing campaigns (phone calls).
 
 ### Steps
 
